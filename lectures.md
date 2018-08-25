@@ -7,6 +7,9 @@ subtitle: Lectures and related material
 ## Lectures
 
  * [Slide Deck 1 : Course introduction, policies and prospective topics & basic bio][1]
+
+{::comment}
+
  * [Slide Deck 2 : Basic bio (part 2) & computational approaches to biological problems][2]
  * [Slide Deck 3 : Exact pattern matching with KMP][3]
  * [Slide Deck 4 : Suffix tries and suffix trees][4]
@@ -23,8 +26,6 @@ subtitle: Lectures and related material
  * [Slide Deck 15 : Using k-mers for large-scale search][15]
  * [Slide Deck 16 : The colored de Bruijn Graph as a sequence search index][16]
  * [Final lecture --- wrap-up and review session for the final.][17]
-
-{::comment}
  
  * [Lecture 3 : Sequencing by synthesis and "short read" technology][3]
  * [Lecture 4 : Pairwise sequence alignment][4]
@@ -58,26 +59,25 @@ subtitle: Lectures and related material
 {::comment} * [Assignment 1 - academic honesty review][honesty] — due Tues. Sept 6 by midnight EST {:/comment}
 
 [1]:{{site.url}}/lectures/Lec01.pdf
-<!-- [2]:{{site.url}}/lectures/Lec02.pdf -->
-<!-- [3]:{{site.url}}/lectures/Lec03.pdf -->
-<!-- [4]:{{site.url}}/lectures/Lec04.pdf -->
-<!-- [5]:{{site.url}}/lectures/Lec05.pdf -->
-<!-- [6]:{{site.url}}/lectures/Lec06.pdf -->
-<!-- [7]:{{site.url}}/lectures/Lec07.pdf -->
-<!-- [8]:{{site.url}}/lectures/Lec08.pdf -->
-<!-- [9]:{{site.url}}/lectures/Lec09.pdf -->
-<!-- [10]:{{site.url}}/lectures/Lec10.pdf -->
-<!-- [11]:{{site.url}}/lectures/Lec11.pdf -->
-<!-- [12]:{{site.url}}/lectures/Lec12.pdf -->
-<!-- [13]:{{site.url}}/lectures/Lec13.pdf -->
-<!-- [14]:{{site.url}}/lectures/Lec14.pdf -->
-<!-- [15]:{{site.url}}/lectures/Lec15.pdf -->
-<!-- [16]:{{site.url}}/lectures/Lec16.pdf -->
-<!-- [17]:{{site.url}}/lectures/Lec17.pdf -->
-<!--  -->
-
+<!-- [2]:{{site.url}}/lectures/Lec02.pdf 
+[3]:{{site.url}}/lectures/Lec03.pdf
+[4]:{{site.url}}/lectures/Lec04.pdf
+[5]:{{site.url}}/lectures/Lec05.pdf
+[6]:{{site.url}}/lectures/Lec06.pdf
+[7]:{{site.url}}/lectures/Lec07.pdf
+[8]:{{site.url}}/lectures/Lec08.pdf
+[9]:{{site.url}}/lectures/Lec09.pdf
+[10]:{{site.url}}/lectures/Lec10.pdf
+[11]:{{site.url}}/lectures/Lec11.pdf
+[12]:{{site.url}}/lectures/Lec12.pdf
+[13]:{{site.url}}/lectures/Lec13.pdf
+[14]:{{site.url}}/lectures/Lec14.pdf
+[15]:{{site.url}}/lectures/Lec15.pdf
+[16]:{{site.url}}/lectures/Lec16.pdf
+[17]:{{site.url}}/lectures/Lec17.pdf
+ -->
 {::comment}
- <!-- * [List of final project options][proj] -->
+<!-- * [List of final project options][proj] -->
 <!-- [3]:{{site.url}}/lectures/Lec03.pdf -->
 <!-- [4]:{{site.url}}/lectures/Lec04_alignment.pdf -->
 <!-- [5]:{{site.url}}/lectures/Lec05_gap_penalties.pdf -->
