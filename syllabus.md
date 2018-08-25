@@ -3,6 +3,7 @@ layout: post
 title: Syllabus
 published: true
 ---
+
 Welcome to Computational Biology (CSE 549). Here you'll find an overview of the course — the material I expect we'll cover, the breakdown of course assignments and credit, and the course policies.
 
 ## Course Content
@@ -34,17 +35,16 @@ We will cover the basic required molecular Biology in the course. However if you
 
 **Course Objectives**: The main objective of this course will be to provide a broad overview of the major areas of Bioinformatics and Computational Biology (B/CB). Our perspective will be a computational and algorithmic one, though we will take the time to understand the necessary Biology and motivation for the problems we discuss. We will touch upon many areas of B/CB, including phylogenetics, genome structure and Biological network analysis. However, there will be a significant concentration on genomics and related problems such as high-throughput read alignment, gene finding, genome assembly and transcriptome assembly and analysis. At the end of this course, you should have a good understanding of the types of problems people work on in B/CB, and a fairly in-depth knowledge of the computational tools and techniques used to address some foundational problems in the field.  A tentative list of topics we will cover (depending on how quickly we move) is:
 
-  * Optimal sequence alignment (global, local, and glocal alignment — with constant & affine gap penalties
   * Algorithms and data structures for efficient text indexing and *exact* search
+  * K-merology — counting, indexing, searching and analyzing sequences using k-mers
+  * Optimal sequence alignment (global, local, and glocal alignment — with constant & affine gap penalties
   * Heuristics for read *alignment* and *mapping* — mapping DNA-seq and RNA-seq reads
   * Genome assembly — k-mers, De Brujin graph construction and representation, long-read technology and read-overlap graph assembly
   * Motif finding via Gibbs sampling
-  * Gene finding — statistical models for *ab initio* and evidence-guided prediction of genes
   * RNA-seq and transcriptomics — transcript assembly, abundance estimation and differential expression testing
   * Phylogenetics — The small and large phylogeny problem; parsimony, maximum likelihood and Bayesian methods
 
-
-**Project Rosalind**:  We will make use of [Project Rosalind](http://rosalind.info/problems/locations/) to assign and grade *small* programming assignments in the course.  The Rosalind page for this course is [http://rosalind.info/classes/437/](http://rosalind.info/classes/437/).  I will announce in class when projects are assigned and due, but you should create a Project Rosalind account as soon as possible, and then you can "enroll" in the course using the link [http://rosalind.info/classes/enroll/35f3c3e77f/](http://rosalind.info/classes/enroll/35f3c3e77f/).
+**Project Rosalind**:  We will make use of [Project Rosalind](http://rosalind.info/problems/locations/) to assign and grade *small* programming assignments in the course.  The Rosalind page for this course is [http://rosalind.info/classes/526/](http://rosalind.info/classes/526/).  I will announce in class when projects are assigned and due, but you should create a Project Rosalind account as soon as possible, and then you can "enroll" in the course using the link [http://rosalind.info/classes/enroll/32d12777db/](http://rosalind.info/classes/enroll/32d12777db/).
 
 ## Course Policy
 
