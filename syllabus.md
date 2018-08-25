@@ -14,7 +14,6 @@ A couple of weeks before the class started (and after a list of books was requir
 The lectures and slides will introduce the topics and cover the majority of the information you'll be expected to know. Further resources, where relevant, will be provided via links on this website accompanying the slides or lecture notes. However, you should use these textbooks as a resource when you feel you need more information about a particular topic or when you wish to learn the material at a different pace than we cover in the course.  There are other (non-required) textbooks that I personally recommend as references:
 
 - [Genome Scale Algorithm Design](http://www.cs.helsinki.fi/group/gsa/book/) (Mäkinen, Belazzougui, Cunial, Tomescu 2015)
-- [Biological Sequence Analysis](http://www.amazon.com/Biological-Sequence-Analysis-Probabilistic-Proteins/dp/0521629713) (Durbin, Eddy, Krogh, Mitchinson 1998)
 
 If, you're from a discipline where you've not had a formal algorithms course, I find 
 
