@@ -15,7 +15,7 @@ Welcome to Computational Biology (CSE 549). Here you'll find an overview of the 
 
 If, you're from a discipline where you've not had a formal algorithms course, I find 
 
-- [Algorithms](http://beust.com/algorithms.pdf) (Dasgupta, Papadimitriou, and Vazirani 2006) to be a nice introduction to the basics. 
+- [Algorithms](http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf) (Dasgupta, Papadimitriou, and Vazirani 2006) to be a nice introduction to the basics. 
  
 I also recommend 
 
