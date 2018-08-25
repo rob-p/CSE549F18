@@ -60,6 +60,7 @@ subtitle: Lectures and related material
 * [Assignment 1 - academic honesty review][honesty] — due Tues. Sept 6 by midnight EST 
 {:/comment}
 
+{::comment}
 [1]:{{site.url}}/lectures/Lec01.pdf
 <!-- [2]:{{site.url}}/lectures/Lec02.pdf 
 [3]:{{site.url}}/lectures/Lec03.pdf
@@ -78,7 +79,6 @@ subtitle: Lectures and related material
 [16]:{{site.url}}/lectures/Lec16.pdf
 [17]:{{site.url}}/lectures/Lec17.pdf
  -->
-{::comment}
 <!-- * [List of final project options][proj] -->
 <!-- [3]:{{site.url}}/lectures/Lec03.pdf -->
 <!-- [4]:{{site.url}}/lectures/Lec04_alignment.pdf -->
