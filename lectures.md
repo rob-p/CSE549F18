@@ -1,10 +1,9 @@
 ---
 layout: post
-title: ''
+title: Lectures
 published: true
 subtitle: Lectures and related material
 ---
-## Lectures
 
  * [Slide Deck 1 : Course introduction, policies and prospective topics & basic bio][1]
 
