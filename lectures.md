@@ -55,8 +55,10 @@ subtitle: Lectures and related material
  * [Transcription](https://www.dnalc.org/resources/3d/12-transcription-basic.html)
  * [Translation](https://www.dnalc.org/resources/3d/15-translation-basic.html)
 
+{::comment} 
 ## Assignments for waitlisted students
-{::comment} * [Assignment 1 - academic honesty review][honesty] — due Tues. Sept 6 by midnight EST {:/comment}
+* [Assignment 1 - academic honesty review][honesty] — due Tues. Sept 6 by midnight EST 
+{:/comment}
 
 [1]:{{site.url}}/lectures/Lec01.pdf
 <!-- [2]:{{site.url}}/lectures/Lec02.pdf 
