@@ -8,7 +8,10 @@ Welcome to Computational Biology (CSE 549). Here you'll find an overview of the 
 
 ## Course Content
 
-**Textbook(s)**: The officially listed textbooks for this course are "Bioinformatics Algorithms: An Active Learning Approach" [Volume I](https://www.amazon.com/Bioinformatics-Algorithms-Active-Learning-Approach/dp/0990374610) and [Volume II](https://www.amazon.com/Bioinformatics-Algorithms-Active-Learning-Approach/dp/0990374629/ref=pd_sim_14_1?ie=UTF8&psc=1&refRID=40X4TFRTNNVP26HCPYX0). The lectures and slides will introduce the topics and cover the majority of the information you'll be expected to know. Further resources, where relevant, will be provided via links on this website accompanying the slides or lecture notes. However, you should use these textbooks as a resource when you feel you need more information about a particular topic or when you wish to learn the material at a different pace than we cover in the course.  There are other (non-required) textbooks that I personally recommend as references:
+**Textbook(s)**: The officially listed textbooks for this course are "Bioinformatics Algorithms: An Active Learning Approach".
+A couple of weeks before the class started (and after a list of books was required from me by the university), the authors released the [3rd edition of this book](https://secure.mybookorders.com/Orderpage/1402). The third edition combines both volumes into a single book, and is a *much* more cost effective option. 
+
+The lectures and slides will introduce the topics and cover the majority of the information you'll be expected to know. Further resources, where relevant, will be provided via links on this website accompanying the slides or lecture notes. However, you should use these textbooks as a resource when you feel you need more information about a particular topic or when you wish to learn the material at a different pace than we cover in the course.  There are other (non-required) textbooks that I personally recommend as references:
 
 - [Genome Scale Algorithm Design](http://www.cs.helsinki.fi/group/gsa/book/) (Mäkinen, Belazzougui, Cunial, Tomescu 2015)
 - [Biological Sequence Analysis](http://www.amazon.com/Biological-Sequence-Analysis-Probabilistic-Proteins/dp/0521629713) (Durbin, Eddy, Krogh, Mitchinson 1998)

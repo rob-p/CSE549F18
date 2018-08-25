@@ -101,5 +101,6 @@ subtitle: Lectures and related material
 
 <!-- [proj]:{{ site.url}}/assets/ProjectList.pdf -->
 <!-- [honesty]:{{ site.url}}/assets/honesty.pdf -->
+
 {:/comment}
 
