@@ -59,8 +59,9 @@ subtitle: Lectures and related material
 * [Assignment 1 - academic honesty review][honesty] — due Tues. Sept 6 by midnight EST 
 {:/comment}
 
-{::comment}
 [1]:{{site.url}}/lectures/Lec01.pdf
+
+{::comment}
 <!-- [2]:{{site.url}}/lectures/Lec02.pdf 
 [3]:{{site.url}}/lectures/Lec03.pdf
 [4]:{{site.url}}/lectures/Lec04.pdf
@@ -97,8 +98,8 @@ subtitle: Lectures and related material
 <!-- [19]:{{site.url}}/lectures/CSE549-Lec19_Cufflinks.pdf -->
 <!-- [20]:{{site.url}}/lectures/CSE549-Lec20_fastmapping.pdf -->
 <!-- [21]:{{site.url}}/lectures/CSE549-Lec22_quantification.pdf -->
-{:/comment}
 
 <!-- [proj]:{{ site.url}}/assets/ProjectList.pdf -->
 [honesty]:{{ site.url}}/assets/honesty.pdf
+{:/comment}
 
