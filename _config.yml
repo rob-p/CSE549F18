@@ -1,7 +1,7 @@
 # Jekyll configuration
 
-name: My blog
-description: A jekyll theme
+name: CSE549 Fall 2018
+description: Introduction to Computational Biology
 
 # url is currently only used only for the RSS feed in feed.xml
 url: https://rob-p.github.io/CSE549F18/ 
@@ -35,6 +35,6 @@ paginate: 3
 
 highlighter: rouge
 markdown: kramdown
-gems: ['jekyll-paginate']
+plugins: ['jekyll-paginate']
 
 exclude: ['README.md', 'LICENSE']
