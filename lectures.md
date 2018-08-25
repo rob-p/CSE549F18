@@ -100,6 +100,6 @@ subtitle: Lectures and related material
 <!-- [21]:{{site.url}}/lectures/CSE549-Lec22_quantification.pdf -->
 
 <!-- [proj]:{{ site.url}}/assets/ProjectList.pdf -->
-[honesty]:{{ site.url}}/assets/honesty.pdf
+<!-- [honesty]:{{ site.url}}/assets/honesty.pdf -->
 {:/comment}
 
