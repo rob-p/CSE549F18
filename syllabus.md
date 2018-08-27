@@ -9,7 +9,8 @@ Welcome to Computational Biology (CSE 549). Here you'll find an overview of the 
 ## Course Content
 
 **Textbook(s)**: The officially listed textbooks for this course are "Bioinformatics Algorithms: An Active Learning Approach".
-A couple of weeks before the class started (and after a list of books was required from me by the university), the authors released the [3rd edition of this book](https://secure.mybookorders.com/Orderpage/1402). The third edition combines both volumes into a single book, and is a *much* more cost effective option. 
+
+**Note:** A couple of weeks before the class started (and after a list of books was required from me by the university), the authors released the [3rd edition of this book](https://secure.mybookorders.com/Orderpage/1402). The third edition combines both volumes into a single book, and is a *much* more cost effective option. 
 
 The lectures and slides will introduce the topics and cover the majority of the information you'll be expected to know. Further resources, where relevant, will be provided via links on this website accompanying the slides or lecture notes. However, you should use these textbooks as a resource when you feel you need more information about a particular topic or when you wish to learn the material at a different pace than we cover in the course.  There are other (non-required) textbooks that I personally recommend as references:
 
@@ -33,9 +34,9 @@ We will cover the basic required molecular Biology in the course. However if you
 
 - [Molecular Biology](http://www.amazon.com/Molecular-Biology-Second-Edition-David/dp/0123785944) (Clark and Pazdernik 2012)
 
-**Expectations**: Since this is a computational Biology course, you will be expected to become familiar with the relevant Biology — it is an important and inextricable part of the material, and the underlying Biology provides motivation for the computational problems we will tackle.
+**Expectations**: The approach we will take in this course to defining and solving problems will be very computational in nature.  Nonetheless, since this is a computational *Biology* course, you will be expected to become familiar with the relevant Biology — it is an important and inextricable part of the material, and the underlying Biology provides motivation for the computational problems we will tackle.
 
-**Course Objectives**: The main objective of this course will be to provide a broad overview of the major areas of Bioinformatics and Computational Biology (B/CB). Our perspective will be a computational and algorithmic one, though we will take the time to understand the necessary Biology and motivation for the problems we discuss. We will touch upon many areas of B/CB, including phylogenetics, genome structure and Biological network analysis. However, there will be a significant concentration on genomics and related problems such as high-throughput read alignment, gene finding, genome assembly and transcriptome assembly and analysis. At the end of this course, you should have a good understanding of the types of problems people work on in B/CB, and a fairly in-depth knowledge of the computational tools and techniques used to address some foundational problems in the field.  A tentative list of topics we will cover (depending on how quickly we move) is:
+**Course Objectives**: The main objective of this course will be to provide a broad overview of the major areas of Bioinformatics and Computational Biology (B/CB). Our perspective will be a computational and algorithmic one, though we will take the time to understand the necessary Biology and motivation for the problems we discuss. We will touch upon many areas of B/CB, however, there will be a significant concentration on genomics and related problems such as high-throughput read alignment, gene discovery, genome assembly and transcriptome assembly and analysis. At the end of this course, you should have a good understanding of the types of problems people work on in B/CB, and a fairly in-depth knowledge of the computational tools and techniques used to address some foundational problems in the field.  A tentative list of topics we will cover (depending on how quickly we move) is:
 
   * Algorithms and data structures for efficient text indexing and *exact* search
   * K-merology — counting, indexing, searching and analyzing sequences using k-mers
@@ -53,8 +54,14 @@ We will cover the basic required molecular Biology in the course. However if you
 **Coursework and grading**: The coursework will consist of two exams, a midterm (whose tentative date is Tues, October 11) and a final (on the University-scheduled date). In addition there will be a few homework assignments (some small programming assignments, and one or two written homeworks that will require you to devise / explain an algorithm, or prove some properly about an algorithm or data structure that we cover in class) and a final course project. The final project can be selected from a list of projects that will be distributed in a few weeks. The project will be done in teams of 3 - 4 students (a team of 2 is OK, but no solo projects and **no teams > 4 students**). For the final project, there will be a brief (7 min) presentation by each group, a deliverable as runnable code, and a short (4-5 page) research-style paper describing the work you've done. The breakdown of weights for these different assignments will be as follows:
 
 - Midterm — 30%
+  - Tentative date: Thurs. Oct 11 : 2:30 -- 3:50PM (in class)
+  
 - Final — 30%
+  - Date: Tues. Dec 18 : 11:15AM -- 1:45PM
+  
 - Final Project — 20%
+  - Due date: Thurs. Dec 6 : 11:50PM (EST)
+  
 - Homeworks — 20%
 
 **Regrade policy**: All requests to re-grade, re-check, or re-mark an assignment or exam question **must be made in writing**. When the assignment is re-graded, it will be re-checked in its entirety. This means that *it is possible to lose points on other problems if they were graded incorrectly or too leniently the first time*. Therefore, I urge you to thoroughly consider each regrade request you make.
