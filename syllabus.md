@@ -6,6 +6,11 @@ published: true
 
 Welcome to Computational Biology (CSE 549). Here you'll find an overview of the course — the material I expect we'll cover, the breakdown of course assignments and credit, and the course policies.
 
+## Office Hours
+
+ * Rob Patro (Instructor) : Tu / Thur, 4 - 5:30 (NCS 259)
+ * Akshat Singhal (TA)    : Wed, 2 - 3:30 (Old Computer Science 2203)
+
 ## Course Content
 
 **Textbook(s)**: The officially listed textbooks for this course are "Bioinformatics Algorithms: An Active Learning Approach".
