@@ -7,6 +7,7 @@ subtitle: Lectures and related material
 
  * [Slide Deck 1 : Course introduction, policies and prospective topics & basic bio][1]
  * [Slide Deck 2 : Computational approaches to biological problems][2]
+ * [Slide Deck 3 : K-mer counting and representation][3]
 
 {::comment}
 
@@ -61,6 +62,7 @@ subtitle: Lectures and related material
 
 [1]:{{site.url}}/lectures/Lec01.pdf
 [2]:{{site.url}}/lectures/Lec02.pdf 
+[3]:{{site.url}}/lectures/Lec03.pdf
 
 {::comment}
 <!-- 
