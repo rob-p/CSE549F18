@@ -9,6 +9,7 @@ subtitle: Lectures and related material
  * [Slide Deck 2 : Computational approaches to biological problems][2]
  * [Slide Deck 3 : K-mer counting and representation][3]
  * [Slide Deck 4 : Large scale sequence search based on K-mers][4]
+ * [Slide Deck 5 : Suffix tries and suffix trees][5]
 
 
 {::comment}
@@ -66,6 +67,7 @@ subtitle: Lectures and related material
 [2]:{{site.url}}/lectures/Lec02.pdf 
 [3]:{{site.url}}/lectures/Lec03.pdf
 [4]:{{site.url}}/lectures/Lec04.pdf
+[5]:{{site.url}}/lectures/Lec05.pdf
 
 {::comment}
 <!-- 
@@ -109,5 +111,6 @@ subtitle: Lectures and related material
 <!-- [honesty]:{{ site.url}}/assets/honesty.pdf -->
 
 {:/comment}
+
 
 
