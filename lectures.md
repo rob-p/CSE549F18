@@ -10,6 +10,7 @@ subtitle: Lectures and related material
  * [Slide Deck 3 : K-mer counting and representation][3]
  * [Slide Deck 4 : Large scale sequence search based on K-mers][4]
  * [Slide Deck 5 : Suffix tries and suffix trees][5]
+ * [Slide Deck 6 : Suffix arrays][6]
 
 
 {::comment}
@@ -68,6 +69,7 @@ subtitle: Lectures and related material
 [3]:{{site.url}}/lectures/Lec03.pdf
 [4]:{{site.url}}/lectures/Lec04.pdf
 [5]:{{site.url}}/lectures/Lec05.pdf
+[6]:{{site.url}}/lectures/Lec06.pdf
 
 {::comment}
 <!-- 
@@ -111,6 +113,7 @@ subtitle: Lectures and related material
 <!-- [honesty]:{{ site.url}}/assets/honesty.pdf -->
 
 {:/comment}
+
 
 
 
