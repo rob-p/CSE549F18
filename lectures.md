@@ -11,7 +11,7 @@ subtitle: Lectures and related material
  * [Slide Deck 4 : Large scale sequence search based on K-mers][4]
  * [Slide Deck 5 : Suffix tries and suffix trees][5]
  * [Slide Deck 6 : Suffix arrays][6]
- * [Slide Deck 7 : Suffix arrays][7]
+ * [Slide Deck 7 : BWT and FM-index][7]
 
 
 {::comment}
