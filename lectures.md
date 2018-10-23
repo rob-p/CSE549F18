@@ -13,6 +13,7 @@ subtitle: Lectures and related material
  * [Slide Deck 6 : Suffix arrays][6]
  * [Slide Deck 7 : BWT and FM-index][7]
  * [Slide Deck 8 : Introduction to Approximate Matching][8]
+ * [Slide Deck 9 : Sequence alignment and similarity][9]
 
 
 {::comment}
@@ -74,6 +75,7 @@ subtitle: Lectures and related material
 [6]:{{site.url}}/lectures/Lec06.pdf
 [7]:{{site.url}}/lectures/Lec07.pdf
 [8]:{{site.url}}/lectures/Lec08.pdf
+[9]:{{site.url}}/lectures/Lec09.pdf
 
 
 {::comment}
@@ -118,6 +120,7 @@ subtitle: Lectures and related material
 <!-- [honesty]:{{ site.url}}/assets/honesty.pdf -->
 
 {:/comment}
+
 
 
 
