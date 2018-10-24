@@ -14,6 +14,7 @@ subtitle: Lectures and related material
  * [Slide Deck 7 : BWT and FM-index][7]
  * [Slide Deck 8 : Introduction to Approximate Matching][8]
  * [Slide Deck 9 : Sequence alignment and similarity][9]
+ * [Slide Deck 10 : Local sequence alignment and gap penalties][10]
 
 
 {::comment}
@@ -76,6 +77,8 @@ subtitle: Lectures and related material
 [7]:{{site.url}}/lectures/Lec07.pdf
 [8]:{{site.url}}/lectures/Lec08.pdf
 [9]:{{site.url}}/lectures/Lec09.pdf
+[10]:{{site.url}}/lectures/Lec10.pdf
+
 
 
 {::comment}
