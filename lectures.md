@@ -15,6 +15,7 @@ subtitle: Lectures and related material
  * [Slide Deck 8 : Introduction to Approximate Matching][8]
  * [Slide Deck 9 : Sequence alignment and similarity][9]
  * [Slide Deck 10 : Local sequence alignment and gap penalties][10]
+ * [Slide Deck 11 : Space-efficient sequence alignment][11]
 
 
 {::comment}
@@ -78,6 +79,7 @@ subtitle: Lectures and related material
 [8]:{{site.url}}/lectures/Lec08.pdf
 [9]:{{site.url}}/lectures/Lec09.pdf
 [10]:{{site.url}}/lectures/Lec10.pdf
+[11]:{{site.url}}/lectures/Lec11.pdf
 
 
 
@@ -123,6 +125,7 @@ subtitle: Lectures and related material
 <!-- [honesty]:{{ site.url}}/assets/honesty.pdf -->
 
 {:/comment}
+
 
 
 
