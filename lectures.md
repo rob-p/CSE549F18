@@ -16,6 +16,7 @@ subtitle: Lectures and related material
  * [Slide Deck 9 : Sequence alignment and similarity][9]
  * [Slide Deck 10 : Local sequence alignment and gap penalties][10]
  * [Slide Deck 11 : Space-efficient sequence alignment][11]
+ * [Slide Deck 12 : Substitution Matrices][12]
 
 
 {::comment}
@@ -80,6 +81,7 @@ subtitle: Lectures and related material
 [9]:{{site.url}}/lectures/Lec09.pdf
 [10]:{{site.url}}/lectures/Lec10.pdf
 [11]:{{site.url}}/lectures/Lec11.pdf
+[12]:{{site.url}}/lectures/Lec12.pdf
 
 
 
@@ -125,6 +127,7 @@ subtitle: Lectures and related material
 <!-- [honesty]:{{ site.url}}/assets/honesty.pdf -->
 
 {:/comment}
+
 
 
 
