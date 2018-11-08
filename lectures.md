@@ -17,6 +17,7 @@ subtitle: Lectures and related material
  * [Slide Deck 10 : Local sequence alignment and gap penalties][10]
  * [Slide Deck 11 : Space-efficient sequence alignment][11]
  * [Slide Deck 12 : Substitution Matrices][12]
+ * [Slide Deck 13 : Phylogenomics][13]
 
 
 {::comment}
@@ -82,6 +83,7 @@ subtitle: Lectures and related material
 [10]:{{site.url}}/lectures/Lec10.pdf
 [11]:{{site.url}}/lectures/Lec11.pdf
 [12]:{{site.url}}/lectures/Lec12.pdf
+[13]:{{site.url}}/lectures/Lec13.pdf
 
 
 
