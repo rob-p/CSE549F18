@@ -18,6 +18,7 @@ subtitle: Lectures and related material
  * [Slide Deck 11 : Space-efficient sequence alignment][11]
  * [Slide Deck 12 : Substitution Matrices][12]
  * [Slide Deck 13 : Phylogenomics][13]
+ * [Slide Deck 14 : Assembly (dBG)][14]
 
 
 {::comment}
@@ -84,7 +85,7 @@ subtitle: Lectures and related material
 [11]:{{site.url}}/lectures/Lec11.pdf
 [12]:{{site.url}}/lectures/Lec12.pdf
 [13]:{{site.url}}/lectures/Lec13.pdf
-
+[14]:{{site.url}}/lectures/Lec14.pdf
 
 
 {::comment}
@@ -129,6 +130,7 @@ subtitle: Lectures and related material
 <!-- [honesty]:{{ site.url}}/assets/honesty.pdf -->
 
 {:/comment}
+
 
 
 
