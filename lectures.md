@@ -19,6 +19,7 @@ subtitle: Lectures and related material
  * [Slide Deck 12 : Substitution Matrices][12]
  * [Slide Deck 13 : Phylogenomics][13]
  * [Slide Deck 14 : Assembly (dBG)][14]
+ * [Slide Deck 15 : Efficient dBG representation][15]
 
 
 {::comment}
@@ -86,7 +87,7 @@ subtitle: Lectures and related material
 [12]:{{site.url}}/lectures/Lec12.pdf
 [13]:{{site.url}}/lectures/Lec13.pdf
 [14]:{{site.url}}/lectures/Lec14.pdf
-
+[15]:{{site.url}}/lectures/Lec15.pdf
 
 {::comment}
 <!-- 
@@ -130,6 +131,7 @@ subtitle: Lectures and related material
 <!-- [honesty]:{{ site.url}}/assets/honesty.pdf -->
 
 {:/comment}
+
 
 
 
