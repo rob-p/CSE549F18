@@ -20,6 +20,7 @@ subtitle: Lectures and related material
  * [Slide Deck 13 : Phylogenomics][13]
  * [Slide Deck 14 : Assembly (dBG)][14]
  * [Slide Deck 15 : Efficient dBG representation][15]
+ * [Slide Deck 16 : Probabilistic sequence modeling (HMMs)][16]
 
 
 {::comment}
@@ -88,6 +89,7 @@ subtitle: Lectures and related material
 [13]:{{site.url}}/lectures/Lec13.pdf
 [14]:{{site.url}}/lectures/Lec14.pdf
 [15]:{{site.url}}/lectures/Lec15.pdf
+[16]:{{site.url}}/lectures/Lec16.pdf
 
 {::comment}
 <!-- 
@@ -131,6 +133,7 @@ subtitle: Lectures and related material
 <!-- [honesty]:{{ site.url}}/assets/honesty.pdf -->
 
 {:/comment}
+
 
 
 
