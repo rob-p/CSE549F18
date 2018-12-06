@@ -22,6 +22,7 @@ subtitle: Lectures and related material
  * [Slide Deck 15 : Efficient dBG representation][15]
  * [Slide Deck 16 : Probabilistic sequence modeling (HMMs)][16]
  * [Slide Deck 17 : Exploring the transcriptome with RNA-seq][17]
+ * [Slide Deck 18 : Course Wrap-up][18]
 
 
 {::comment}
@@ -92,6 +93,7 @@ subtitle: Lectures and related material
 [15]:{{site.url}}/lectures/Lec15.pdf
 [16]:{{site.url}}/lectures/Lec16.pdf
 [17]:{{site.url}}/lectures/Lec17.pdf
+[18]:{{site.url}}/lectures/Lec18.pdf
 
 {::comment}
 <!-- 
